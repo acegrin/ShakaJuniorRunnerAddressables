@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4179546640
+CRC: 3240295708
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a746ad98531580b3156bc4c4792209fb
+    Hash: 54543e73ac7b19f4a549d2055cd99742
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c951fc85b33a9041d5dd1ec6f669322d
+    Hash: 43b28936a899b607dcf369df1d2691ba
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a746ad98531580b3156bc4c4792209fb
+    Hash: 54543e73ac7b19f4a549d2055cd99742
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,6 +41,8 @@ ClassTypes:
 - Class: 91
   Script: {instanceID: 0}
 - Class: 95
+  Script: {instanceID: 0}
+- Class: 108
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
@@ -96,8 +98,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 6589a9e94b3ee7b449c82b05663b5b01, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9a5940eb0528ebc4ca57ed64f86ee263, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: bbde68e4a3e016d4d8f5084bda2e59fc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -121,6 +121,8 @@ ClassTypes:
 - Class: 687078895
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
+- AssemblyName: CFXRRuntime
+  ClassName: CartoonFX.CFXR_Effect/AnimatedLight
 - AssemblyName: CFXRRuntime
   ClassName: CartoonFX.CFXR_Effect/CameraShake
 - AssemblyName: ShakaJunior
@@ -146,6 +148,21 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/Anko/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeapon.prefab
+- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
+- Assets/Prefabs/Runners/Anko/RunnerSprite.png
+- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
+- Assets/Prefabs/Runners/Anko/HitImpact1.prefab
+- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/IceblockWall.png
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/MaterialTexture/ufo.PNG
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/Mesh/Cube.mesh
+- Assets/Prefabs/Runners/Anko/HitImpact.prefab
+- Assets/Prefabs/Runners/Anko/Animation/Slide.anim
+- Assets/Prefabs/Runners/Anko/Textures/Ranger.png
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Prefabs/Runners/Anko/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/Impact4_Blue.png
@@ -153,8 +170,6 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Falling.anim
 - Assets/Prefabs/Runners/Anko/RunnerProfile.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeapon.prefab
-- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/Anko/Textures/internal_ground_ao_texture.jpeg
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
@@ -164,27 +179,15 @@ Assets:
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/Anko/Sound/Foot.wav
-- Assets/Prefabs/Runners/Anko/RunnerSprite.png
-- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
-- Assets/Prefabs/Runners/Anko/HitImpact.prefab
-- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/particles-single.png
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/IceblockWall.png
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/MaterialTexture/ufo.PNG
 - Assets/Prefabs/Runners/Anko/AnkoModel/BunnyRanger.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/Mesh/Cube.mesh
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
-- Assets/Prefabs/Runners/Anko/Animation/Slide.anim
 - Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
-- Assets/Prefabs/Runners/Anko/Textures/Ranger.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryModeSound.wav
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
