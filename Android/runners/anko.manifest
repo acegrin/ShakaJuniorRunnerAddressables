@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3240295708
+CRC: 1738377208
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 54543e73ac7b19f4a549d2055cd99742
+    Hash: 0476644b950b15fdd8029c301176eb0e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43b28936a899b607dcf369df1d2691ba
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 54543e73ac7b19f4a549d2055cd99742
+    Hash: 0476644b950b15fdd8029c301176eb0e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -148,21 +148,6 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/Anko/Animation/Running Slide.anim
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeapon.prefab
-- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
-- Assets/Prefabs/Runners/Anko/RunnerSprite.png
-- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
-- Assets/Prefabs/Runners/Anko/HitImpact1.prefab
-- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/IceblockWall.png
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/MaterialTexture/ufo.PNG
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/Mesh/Cube.mesh
-- Assets/Prefabs/Runners/Anko/HitImpact.prefab
-- Assets/Prefabs/Runners/Anko/Animation/Slide.anim
-- Assets/Prefabs/Runners/Anko/Textures/Ranger.png
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Prefabs/Runners/Anko/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/Impact4_Blue.png
@@ -170,6 +155,8 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Falling.anim
 - Assets/Prefabs/Runners/Anko/RunnerProfile.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeapon.prefab
+- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/Anko/Textures/internal_ground_ao_texture.jpeg
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
@@ -179,15 +166,27 @@ Assets:
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/Anko/Sound/Foot.wav
+- Assets/Prefabs/Runners/Anko/RunnerSprite.png
+- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
+- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryWeaponSound.mp3
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/particles-single.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/IceblockWall.png
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/MaterialTexture/ufo.PNG
 - Assets/Prefabs/Runners/Anko/AnkoModel/BunnyRanger.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/Anko/HitImpact.prefab
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/Mesh/Cube.mesh
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
+- Assets/Prefabs/Runners/Anko/Animation/Slide.anim
 - Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
+- Assets/Prefabs/Runners/Anko/Textures/Ranger.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryModeSound.wav
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
