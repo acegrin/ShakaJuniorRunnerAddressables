@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2886004165
+CRC: 2660418224
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d9f49abcbf34c4e30e613504b5f70219
+    Hash: 45af2c269b82aae88923e934c0e23119
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43b28936a899b607dcf369df1d2691ba
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d9f49abcbf34c4e30e613504b5f70219
+    Hash: 45af2c269b82aae88923e934c0e23119
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -164,6 +164,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Slide.anim
 - Assets/Prefabs/Runners/Anko/Textures/Ranger.png
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
+- Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/Impact4_Blue.png
@@ -182,7 +183,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Sound/Foot.wav
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/particles-single.png
-- Assets/Prefabs/Runners/Anko/Animation/Run.anim
+- Assets/Prefabs/Runners/Anko/Animation/Run1.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
