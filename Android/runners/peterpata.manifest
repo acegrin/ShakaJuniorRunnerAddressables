@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2290270971
+CRC: 3348264166
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a9157a959f72fadc71175a5d9da076e9
+    Hash: ab39438f86fd2da75c98d40446e62852
   TypeTreeHash:
     serializedVersion: 2
     Hash: 085efa581e00cca941eb1b3271990938
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a9157a959f72fadc71175a5d9da076e9
+    Hash: ab39438f86fd2da75c98d40446e62852
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -142,7 +142,6 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Prefabs/Runners/PeterPata/Animation/Run1.anim
 - Assets/Prefabs/Runners/PeterPata/PeterModel/ShakaJR@Idle.fbx
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefense.asset

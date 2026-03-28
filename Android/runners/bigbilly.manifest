@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4068202667
+CRC: 904789286
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 16f619ac105965036797f4070967acfa
+    Hash: 3ee3a2ac02872de58169fbb0d3dfb684
   TypeTreeHash:
     serializedVersion: 2
     Hash: ba4f14a015c86d36ad7060b7b32ab49c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 16f619ac105965036797f4070967acfa
+    Hash: 3ee3a2ac02872de58169fbb0d3dfb684
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -166,29 +166,26 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailMaterial.mat
-- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTexture.PNG
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/FireballRing.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
-- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture1.png
+- Assets/Prefabs/Runners/BigBilly/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/MaterialTexture/WaterGunTexture.jpg
 - Assets/Prefabs/Runners/BigBilly/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/BigBilly/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/BigBilly/Animation/Falling.anim
-- Assets/Prefabs/Runners/BigBilly/RunnerPrefab.prefab
-- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture3.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/PetaPata.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/FireballTail.png
-- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Flaba@Punching.fbx
 - Assets/Prefabs/Runners/BigBilly/Animation/Run.anim
 - Assets/Prefabs/Runners/BigBilly/Sound/Foot.wav
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailTexture.png
 - Assets/Prefabs/Runners/BigBilly/RunnerProfile.asset
-- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture2.png
 - Assets/Prefabs/Runners/BigBilly/RunnerSprite.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Prefabs/Runners/BigBilly/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileMaterial.mat
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/Char_Tex.01.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/BigBilly/SecondaryDefense/SecondaryDefense.asset
@@ -197,4 +194,5 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/Sound/SecondaryWeaponSound.wav
 - Assets/Prefabs/Runners/BigBilly/Sound/PrimaryWeaponSound.wav
 Dependencies:
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/anko
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata
