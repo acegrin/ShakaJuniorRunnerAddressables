@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 904789286
+CRC: 3199460433
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3ee3a2ac02872de58169fbb0d3dfb684
+    Hash: 92dcd52cc47ff9e93cc4fbb5b2a2dd0e
   TypeTreeHash:
     serializedVersion: 2
     Hash: ba4f14a015c86d36ad7060b7b32ab49c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3ee3a2ac02872de58169fbb0d3dfb684
+    Hash: 92dcd52cc47ff9e93cc4fbb5b2a2dd0e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -194,5 +194,4 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/Sound/SecondaryWeaponSound.wav
 - Assets/Prefabs/Runners/BigBilly/Sound/PrimaryWeaponSound.wav
 Dependencies:
-- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/anko
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata
