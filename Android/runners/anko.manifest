@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1457462564
+CRC: 4026517637
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10615bce99ef849b0e261fca848b0a6a
+    Hash: 205e6614b3e1c5a163611942df9aebe9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43b28936a899b607dcf369df1d2691ba
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 10615bce99ef849b0e261fca848b0a6a
+    Hash: 205e6614b3e1c5a163611942df9aebe9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -158,6 +158,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
+- Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/Anko/AnkoModel/Texture/Flaba_Tex.01.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeapon.prefab
@@ -183,10 +184,8 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Anko/AnkoModel/Flaba@Idle.fbx
 - Assets/Prefabs/Runners/Anko/Animation/Slide.anim
-- Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
-- Assets/Prefabs/Runners/Anko/RunnerPrefab1.prefab
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryModeSound.wav
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
