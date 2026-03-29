@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1746981190
+CRC: 1457462564
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2968470eaa748b3f4c9c88f6bc1fbe75
+    Hash: 10615bce99ef849b0e261fca848b0a6a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43b28936a899b607dcf369df1d2691ba
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2968470eaa748b3f4c9c88f6bc1fbe75
+    Hash: 10615bce99ef849b0e261fca848b0a6a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -162,6 +162,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
+- Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/Anko/Sound/Foot.wav
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
@@ -185,7 +186,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
-- Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
+- Assets/Prefabs/Runners/Anko/RunnerPrefab1.prefab
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryModeSound.wav
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
