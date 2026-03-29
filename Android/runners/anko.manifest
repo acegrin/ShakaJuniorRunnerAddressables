@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4026517637
+CRC: 2324740161
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 205e6614b3e1c5a163611942df9aebe9
+    Hash: 84ec90113bc41ba7a372a071ab50a72d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43b28936a899b607dcf369df1d2691ba
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 205e6614b3e1c5a163611942df9aebe9
+    Hash: 84ec90113bc41ba7a372a071ab50a72d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -166,17 +166,16 @@ Assets:
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/Anko/Sound/Foot.wav
-- Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/RunnerSprite.png
+- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/particles-single.png
-- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/IceblockWall.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
-- Assets/Prefabs/Runners/Anko/AnkoModel/Flaba@Running.fbx
+- Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/MaterialTexture/ufo.PNG
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Mesh/Cube.mesh
