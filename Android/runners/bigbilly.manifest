@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3987362628
+CRC: 3173708566
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5b9678868846b2214f2cd7002d530c52
+    Hash: f3bd5bcdfc3d9fc7d53a4984ffc3bc55
   TypeTreeHash:
     serializedVersion: 2
     Hash: ba4f14a015c86d36ad7060b7b32ab49c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5b9678868846b2214f2cd7002d530c52
+    Hash: f3bd5bcdfc3d9fc7d53a4984ffc3bc55
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -158,6 +158,7 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/Mesh/WaterGun.asset
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/BigBilly/HitImpact.prefab
+- Assets/Prefabs/Runners/BigBilly/Animation/Run.anim
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/Mesh/StandardHelicopter.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Prefabs/Runners/BigBilly/Animation/Slide.anim
@@ -177,7 +178,6 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/Animation/Falling.anim
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/PetaPata.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/FireballTail.png
-- Assets/Prefabs/Runners/BigBilly/Animation/Run.anim
 - Assets/Prefabs/Runners/BigBilly/Sound/Foot.wav
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailTexture.png
 - Assets/Prefabs/Runners/BigBilly/RunnerProfile.asset
