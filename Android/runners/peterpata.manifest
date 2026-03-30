@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 612290224
+CRC: 1788876037
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6546acb3578eae866ff0845812f3f0ab
+    Hash: 1f8d05d446ca8153efbc9ceda0944a6b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 085efa581e00cca941eb1b3271990938
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6546acb3578eae866ff0845812f3f0ab
+    Hash: 1f8d05d446ca8153efbc9ceda0944a6b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -142,6 +142,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
+- Assets/Prefabs/Runners/PeterPata/Animation/Run.anim
 - Assets/Prefabs/Runners/PeterPata/PeterModel/ShakaJR@Idle.fbx
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefense.asset
@@ -173,9 +174,8 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PlasmaOlb.png
 - Assets/Prefabs/Runners/PeterPata/HitImpact.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerPrefab.prefab
-- Assets/Prefabs/Runners/PeterPata/Animation/Run.anim
-- Assets/Prefabs/Runners/PeterPata/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/Circle_Impact_Yellow.png
+- Assets/Prefabs/Runners/PeterPata/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/PeterPata/Animation/Jump.anim
 - Assets/Prefabs/Audio/VanEngineLoop.wav
 - Assets/Prefabs/Runners/PeterPata/PrimaryDefense/PrimaryDefenseInstance.prefab

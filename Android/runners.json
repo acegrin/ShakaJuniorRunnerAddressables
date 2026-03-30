@@ -2,15 +2,15 @@
     "runners": [
         {
             "name": "anko",
-            "version": 61
+            "version": 64
         },
         {
             "name": "bigbilly",
-            "version": 61
+            "version": 64
         },
         {
             "name": "peterpata",
-            "version": 61
+            "version": 64
         }
     ]
 }
