@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2490037828
+CRC: 836522497
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 976a9f7e084e7de3d9cab8b31e54236f
+    Hash: 6eb7c6f857942996ac8b4521f87fa7e9
   TypeTreeHash:
     serializedVersion: 2
     Hash: 43b28936a899b607dcf369df1d2691ba
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 976a9f7e084e7de3d9cab8b31e54236f
+    Hash: 6eb7c6f857942996ac8b4521f87fa7e9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -188,5 +188,4 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryModeSound.wav
 Dependencies:
-- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata
