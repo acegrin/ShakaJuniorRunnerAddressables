@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2921357493
+CRC: 4294637026
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e34656a2c0a3e2201d109211c9aaa161
+    Hash: 6bafd9e489d0d6f32afde5a496fa7df9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ba4f14a015c86d36ad7060b7b32ab49c
+    Hash: f9304f335f6a96c91e4c2145063f164d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e34656a2c0a3e2201d109211c9aaa161
+    Hash: 6bafd9e489d0d6f32afde5a496fa7df9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -192,6 +192,7 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/MaterialTexture/SpinningBlades.mat
 - Assets/Prefabs/Runners/BigBilly/Sound/SecondaryWeaponSound.wav
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/textures/ShakaJR_Tex.01.png
 - Assets/Prefabs/Runners/BigBilly/Sound/PrimaryWeaponSound.wav
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata
