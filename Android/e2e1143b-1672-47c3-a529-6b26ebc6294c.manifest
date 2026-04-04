@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2056813067
+CRC: 3089740626
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af9aa22a0c28322c0dbcc505b2916e58
+    Hash: 1eca0bbff782e753d189b3dcef611ca7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7a4865cc857f8a1b1f680e29703f9dee
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: af9aa22a0c28322c0dbcc505b2916e58
+    Hash: 1eca0bbff782e753d189b3dcef611ca7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -162,7 +162,6 @@ Assets:
 - Assets/Bundles/ShakaJR/Animation/Run.anim
 - Assets/Bundles/ShakaJR/MuzzleFlash.prefab
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/Mesh/StandardHelicopter.fbx
-- Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/ShakaJR/Animation/Slide.anim
 - Assets/Bundles/ShakaJR/BigBillyModel/ShakaJR@Standard Run.fbx
 - Assets/Bundles/ShakaJR/BigBillyWeapons/Fireball.png
@@ -182,6 +181,7 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailTexture.png
 - Assets/Bundles/ShakaJR/RunnerProfile.asset
 - Assets/Bundles/ShakaJR/RunnerSprite.png
+- Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/ShakaJR/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Bundles/ShakaJR/BigBillyWeapons/MaterialTexture/BigBillyProjectileMaterial.mat
