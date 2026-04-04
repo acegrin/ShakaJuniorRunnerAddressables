@@ -2,19 +2,19 @@
     "runners": [
         {
             "name": "1c6eecea-00b9-44fd-9862-6c71bed314af",
-            "version": 1
+            "version": 2
         },
         {
             "name": "7eb5b6c3-6b30-4485-bf6a-f9b821729540",
-            "version": 1
+            "version": 2
         },
         {
             "name": "Android",
-            "version": 1
+            "version": 2
         },
         {
             "name": "e2e1143b-1672-47c3-a529-6b26ebc6294c",
-            "version": 1
+            "version": 2
         }
     ]
 }

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3393440692
+CRC: 23241534
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fb55b36509aaa19604865a501382f147
+    Hash: 638535d27930e4a45779b4230233ec6f
   TypeTreeHash:
     serializedVersion: 2
     Hash: bcad5cfee8504f5f8d057dd53a36b13c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fb55b36509aaa19604865a501382f147
+    Hash: 638535d27930e4a45779b4230233ec6f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -165,6 +165,7 @@ Assets:
 - Assets/Bundles/ZEETEE/SecondaryDefense/ufo.controller
 - Assets/Bundles/ZEETEE/RunnerPrefab.prefab
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
+- Assets/Bundles/ZEETEE/MuzzleFlash.prefab
 - Assets/Bundles/ZEETEE/Sound/Foot.wav
 - Assets/Bundles/ZEETEE/RunnerSprite.png
 - Assets/Bundles/ZEETEE/PrimaryDefense/PrimaryDefense.asset
@@ -173,6 +174,7 @@ Assets:
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Bundles/ZEETEE/Weapons/particles-single.png
+- Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/ZEETEE/Weapons/IceblockWall.png
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ufo.PNG
@@ -183,9 +185,8 @@ Assets:
 - Assets/Bundles/ZEETEE/Model/Flaba@Idle.fbx
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Bundles/ZEETEE/Animation/Slide.anim
-- Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
-- Assets/Bundles/ZEETEE/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Bundles/ZEETEE/Animation/Run.anim
+- Assets/Bundles/ZEETEE/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Bundles/ZEETEE/Sound/SecondaryModeSound.wav
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/7eb5b6c3-6b30-4485-bf6a-f9b821729540
