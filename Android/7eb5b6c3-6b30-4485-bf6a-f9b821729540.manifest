@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 659473894
+CRC: 1210996793
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d094b83062b679765574c6ea178cf2ba
+    Hash: a49633cf376a83e5d15732a8ffd7e4d7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 513ac8226274a6a960a01dcab18e4c07
+    Hash: 57d68ff85c90ab36bd34eed4cbebc2c4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d094b83062b679765574c6ea178cf2ba
+    Hash: a49633cf376a83e5d15732a8ffd7e4d7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -152,13 +152,12 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/SuperStriker/Animation/Idle.anim
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/Mesh/WaterCannon.asset
-- Assets/Bundles/SuperStriker/Animation/JavelinThrow.anim
+- Assets/Bundles/SuperStriker/Animation/Slide.anim
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/SuperStriker/Animation/Running Slide.anim
-- Assets/Bundles/SuperStriker/Animation/Slide.anim
+- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
 - Assets/Bundles/SuperStriker/PeterModel/SuperStriker@Standard Run.fbx
 - Assets/Bundles/SuperStriker/Sound/SecondaryModeSound.wav
-- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
@@ -178,6 +177,7 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
 - Assets/Bundles/SuperStriker/PeterWeapons/PlasmaOlb.png
 - Assets/Bundles/SuperStriker/HitImpact.prefab
+- Assets/Bundles/SuperStriker/PeterModel/SuperStrikerPhantomStrike.fbx
 - Assets/Bundles/SuperStriker/MuzzleFlash.prefab
 - Assets/Bundles/SuperStriker/PeterWeapons/Circle_Impact_Yellow.png
 - Assets/Bundles/SuperStriker/Sound/SecondaryWeaponSound.mp3
@@ -187,4 +187,5 @@ Assets:
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/SuperStriker/RunnerPrefab.prefab
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Bundles/SuperStriker/Animation/PhantomStrike.anim
 Dependencies: []

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1502152503
+CRC: 3036140132
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7363d11de45bccac562ee009b2f1d9b4
+    Hash: c4fdb6f14ccdf8c1a494e8fee305c7d7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8092f64770735fa275e5a24c97d694dd
+    Hash: 0336bbca71d39d3497689bb255b35c1f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 7363d11de45bccac562ee009b2f1d9b4
+    Hash: c4fdb6f14ccdf8c1a494e8fee305c7d7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -165,6 +165,7 @@ Assets:
 - Assets/Bundles/ShakaJR/MuzzleFlash.prefab
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/Mesh/StandardHelicopter.fbx
 - Assets/Bundles/ShakaJR/ShakaJRAvatarMask.mask
+- Assets/Bundles/ShakaJR/BigBillyModel/Fireball.fbx
 - Assets/Bundles/ShakaJR/Animation/Slide.anim
 - Assets/Bundles/ShakaJR/BigBillyModel/ShakaJR@Standard Run.fbx
 - Assets/Bundles/ShakaJR/BigBillyWeapons/Fireball.png
@@ -200,4 +201,5 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyModel/textures/ShakaJR_Tex.01.png
 - Assets/Bundles/ShakaJR/Sound/PrimaryWeaponSound.wav
 Dependencies:
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/1c6eecea-00b9-44fd-9862-6c71bed314af
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/7eb5b6c3-6b30-4485-bf6a-f9b821729540
