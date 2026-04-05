@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3089740626
+CRC: 1502152503
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1eca0bbff782e753d189b3dcef611ca7
+    Hash: 7363d11de45bccac562ee009b2f1d9b4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7a4865cc857f8a1b1f680e29703f9dee
+    Hash: 8092f64770735fa275e5a24c97d694dd
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1eca0bbff782e753d189b3dcef611ca7
+    Hash: 7363d11de45bccac562ee009b2f1d9b4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -122,6 +122,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
 - Class: 687078895
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
@@ -162,6 +164,7 @@ Assets:
 - Assets/Bundles/ShakaJR/Animation/Run.anim
 - Assets/Bundles/ShakaJR/MuzzleFlash.prefab
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/Mesh/StandardHelicopter.fbx
+- Assets/Bundles/ShakaJR/ShakaJRAvatarMask.mask
 - Assets/Bundles/ShakaJR/Animation/Slide.anim
 - Assets/Bundles/ShakaJR/BigBillyModel/ShakaJR@Standard Run.fbx
 - Assets/Bundles/ShakaJR/BigBillyWeapons/Fireball.png
@@ -171,11 +174,13 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyWeapons/MaterialTexture/BigBillyProjectileTexture.PNG
 - Assets/Bundles/ShakaJR/BigBillyWeapons/FireballRing.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
+- Assets/Bundles/ShakaJR/BigBillyModel/JavelinThrow.fbx
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/MaterialTexture/WaterGunTexture.jpg
 - Assets/Bundles/ShakaJR/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/ShakaJR/RunnerAnimationController.controller
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Bundles/ShakaJR/Animation/Falling.anim
+- Assets/Bundles/ShakaJR/Animation/JavelinThrow.anim
 - Assets/Bundles/ShakaJR/BigBillyWeapons/FireballTail.png
 - Assets/Bundles/ShakaJR/Sound/Foot.wav
 - Assets/Bundles/ShakaJR/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailTexture.png

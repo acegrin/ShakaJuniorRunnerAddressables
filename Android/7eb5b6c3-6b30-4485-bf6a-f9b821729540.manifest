@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3239230238
+CRC: 659473894
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5081e363d836affdd83e2d7c1b15726b
+    Hash: d094b83062b679765574c6ea178cf2ba
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1e5b3659db427610c11cf8c76378e100
+    Hash: 513ac8226274a6a960a01dcab18e4c07
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5081e363d836affdd83e2d7c1b15726b
+    Hash: d094b83062b679765574c6ea178cf2ba
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -118,6 +118,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 224
   Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
 - Class: 687078895
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
@@ -150,13 +152,13 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/SuperStriker/Animation/Idle.anim
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/Mesh/WaterCannon.asset
-- Assets/Bundles/SuperStriker/Animation/Slide.anim
+- Assets/Bundles/SuperStriker/Animation/JavelinThrow.anim
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/SuperStriker/Animation/Running Slide.anim
-- Assets/Bundles/SuperStriker/Animation/Idle1.anim
-- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
+- Assets/Bundles/SuperStriker/Animation/Slide.anim
 - Assets/Bundles/SuperStriker/PeterModel/SuperStriker@Standard Run.fbx
 - Assets/Bundles/SuperStriker/Sound/SecondaryModeSound.wav
+- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
@@ -165,8 +167,8 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/SuperStriker/Animation/Run.anim
 - Assets/Bundles/SuperStriker/SecondaryDefense/SecondaryDefensePrefab.prefab
-- Assets/Bundles/SuperStriker/RunnerAnimationController.controller
 - Assets/Bundles/SuperStriker/PeterWeapons/Circle_Impact_Red.png
+- Assets/Bundles/SuperStriker/SuperStrikerAvatarMask.mask
 - Assets/Bundles/SuperStriker/PeterModel/Texture/Char_Tex.01.png
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
@@ -177,12 +179,12 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterWeapons/PlasmaOlb.png
 - Assets/Bundles/SuperStriker/HitImpact.prefab
 - Assets/Bundles/SuperStriker/MuzzleFlash.prefab
-- Assets/Bundles/SuperStriker/Animation/Run2.anim
-- Assets/Bundles/SuperStriker/Sound/SecondaryWeaponSound.mp3
 - Assets/Bundles/SuperStriker/PeterWeapons/Circle_Impact_Yellow.png
+- Assets/Bundles/SuperStriker/Sound/SecondaryWeaponSound.mp3
 - Assets/Bundles/SuperStriker/RunnerProfile.asset
 - Assets/Bundles/SuperStriker/Animation/Jump.anim
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Bundles/SuperStriker/RunnerAnimationController.controller
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/SuperStriker/RunnerPrefab.prefab
+- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 Dependencies: []
