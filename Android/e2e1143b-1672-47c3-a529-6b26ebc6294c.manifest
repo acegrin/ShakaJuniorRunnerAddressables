@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3036140132
+CRC: 1463287270
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c4fdb6f14ccdf8c1a494e8fee305c7d7
+    Hash: e4cdc71a793421f7295ac5c5a282ff35
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0336bbca71d39d3497689bb255b35c1f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c4fdb6f14ccdf8c1a494e8fee305c7d7
+    Hash: e4cdc71a793421f7295ac5c5a282ff35
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -156,18 +156,19 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyModel/ShakaJR@Idle.fbx
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Bundles/ShakaJR/Animation/Jump.anim
+- Assets/Bundles/ShakaJR/BigBillyModel/Slide.fbx
 - Assets/Bundles/ShakaJR/Sound/SecondaryModeSound.wav
 - Assets/Bundles/ShakaJR/Animation/Idle.anim
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/Mesh/WaterGun.asset
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Bundles/ShakaJR/HitImpact.prefab
+- Assets/Bundles/ShakaJR/Animation/Slide.anim
 - Assets/Bundles/ShakaJR/Animation/Run.anim
-- Assets/Bundles/ShakaJR/MuzzleFlash.prefab
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/Mesh/StandardHelicopter.fbx
 - Assets/Bundles/ShakaJR/ShakaJRAvatarMask.mask
 - Assets/Bundles/ShakaJR/BigBillyModel/Fireball.fbx
-- Assets/Bundles/ShakaJR/Animation/Slide.anim
 - Assets/Bundles/ShakaJR/BigBillyModel/ShakaJR@Standard Run.fbx
+- Assets/Bundles/ShakaJR/MuzzleFlash.prefab
 - Assets/Bundles/ShakaJR/BigBillyWeapons/Fireball.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab

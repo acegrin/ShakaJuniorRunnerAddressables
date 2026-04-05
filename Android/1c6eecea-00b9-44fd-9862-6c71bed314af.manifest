@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3215326624
+CRC: 720449928
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 984692c01936e28481080a048ddabc95
+    Hash: 586d6983572ca721af8c1638b05fa37b
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7c3fb5be410e72283688153aa759809a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 984692c01936e28481080a048ddabc95
+    Hash: 586d6983572ca721af8c1638b05fa37b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -166,9 +166,9 @@ Assets:
 - Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ufo.PNG
 - Assets/Bundles/ZEETEE/SecondaryDefense/Mesh/Cube.mesh
 - Assets/Bundles/ZEETEE/HitImpact.prefab
+- Assets/Bundles/ZEETEE/Animation/Slide.anim
 - Assets/Bundles/ZEETEE/Model/Flaba@Fast Run.fbx
 - Assets/Bundles/ZEETEE/Model/Flaba@Idle.fbx
-- Assets/Bundles/ZEETEE/Animation/Slide.anim
 - Assets/Bundles/ZEETEE/Animation/Run.anim
 - Assets/Bundles/ZEETEE/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Bundles/ZEETEE/RunnerAnimationController.controller

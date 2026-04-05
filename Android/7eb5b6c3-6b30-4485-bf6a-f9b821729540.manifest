@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1210996793
+CRC: 1389727532
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a49633cf376a83e5d15732a8ffd7e4d7
+    Hash: ab3443a861019b42b319813d339840ec
   TypeTreeHash:
     serializedVersion: 2
     Hash: 57d68ff85c90ab36bd34eed4cbebc2c4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a49633cf376a83e5d15732a8ffd7e4d7
+    Hash: ab3443a861019b42b319813d339840ec
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -152,12 +152,12 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/SuperStriker/Animation/Idle.anim
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/Mesh/WaterCannon.asset
-- Assets/Bundles/SuperStriker/Animation/Slide.anim
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/SuperStriker/Animation/Running Slide.anim
-- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
+- Assets/Bundles/SuperStriker/Animation/Slide.anim
 - Assets/Bundles/SuperStriker/PeterModel/SuperStriker@Standard Run.fbx
 - Assets/Bundles/SuperStriker/Sound/SecondaryModeSound.wav
+- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
