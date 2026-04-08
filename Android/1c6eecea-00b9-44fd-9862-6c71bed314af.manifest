@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 720449928
+CRC: 1212245145
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 586d6983572ca721af8c1638b05fa37b
+    Hash: d751a9dc2b146ea210c4f6b7c12e03e6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7c3fb5be410e72283688153aa759809a
+    Hash: 9dab45073aca5bf182bb30745860bed4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 586d6983572ca721af8c1638b05fa37b
+    Hash: d751a9dc2b146ea210c4f6b7c12e03e6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -108,8 +108,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
-- Class: 205
-  Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 - Class: 222
@@ -152,6 +150,7 @@ Assets:
 - Assets/Bundles/ZEETEE/Animation/Running Slide.anim
 - Assets/Bundles/ZEETEE/ZEETEEAvatarMask.mask
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeapon.prefab
+- Assets/Bundles/ZEETEE/Weapons/FrostTrapMainTexture.png
 - Assets/Bundles/ZEETEE/Model/Texture/Flaba_Tex.01.png
 - Assets/Bundles/ZEETEE/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/ZEETEE/RunnerPrefab.prefab
@@ -169,8 +168,8 @@ Assets:
 - Assets/Bundles/ZEETEE/Animation/Slide.anim
 - Assets/Bundles/ZEETEE/Model/Flaba@Fast Run.fbx
 - Assets/Bundles/ZEETEE/Model/Flaba@Idle.fbx
+- Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/Atlas_00001.png
 - Assets/Bundles/ZEETEE/Animation/Run.anim
-- Assets/Bundles/ZEETEE/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Bundles/ZEETEE/RunnerAnimationController.controller
 - Assets/Bundles/ZEETEE/Sound/PrimaryWeaponSound.mp3
 - Assets/Bundles/ZEETEE/Animation/Jump.anim
@@ -179,6 +178,7 @@ Assets:
 - Assets/Bundles/ZEETEE/Animation/Falling.anim
 - Assets/Bundles/ZEETEE/RunnerProfile.asset
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ZEETEEUFOMAT.mat
 - Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefense.asset
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeapon.prefab
@@ -191,6 +191,7 @@ Assets:
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
+- Assets/Bundles/ZEETEE/SecondaryDefense/ZEETEESecondary.fbx
 - Assets/Bundles/ZEETEE/Sound/SecondaryModeSound.wav
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/7eb5b6c3-6b30-4485-bf6a-f9b821729540

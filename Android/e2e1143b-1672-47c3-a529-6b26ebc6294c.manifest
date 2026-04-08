@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1463287270
+CRC: 2989631191
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e4cdc71a793421f7295ac5c5a282ff35
+    Hash: 0623fc6149da417dbaae9162a08c5e7b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 0336bbca71d39d3497689bb255b35c1f
+    Hash: 507f922f8c92f8440b8736e6151aa697
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e4cdc71a793421f7295ac5c5a282ff35
+    Hash: 0623fc6149da417dbaae9162a08c5e7b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -112,8 +112,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 199
   Script: {instanceID: 0}
-- Class: 205
-  Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 - Class: 222
@@ -169,6 +167,7 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyModel/Fireball.fbx
 - Assets/Bundles/ShakaJR/BigBillyModel/ShakaJR@Standard Run.fbx
 - Assets/Bundles/ShakaJR/MuzzleFlash.prefab
+- Assets/Bundles/ShakaJR/BigBillyWeapons/NeonImpaler.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/Fireball.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
@@ -180,6 +179,7 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/MaterialTexture/WaterGunTexture.jpg
 - Assets/Bundles/ShakaJR/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/ShakaJR/RunnerAnimationController.controller
+- Assets/Bundles/ShakaJR/BigBillyWeapons/ShakaSpear@2x.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Bundles/ShakaJR/Animation/Falling.anim
 - Assets/Bundles/ShakaJR/Animation/JavelinThrow.anim
