@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2989631191
+CRC: 3180968140
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0623fc6149da417dbaae9162a08c5e7b
+    Hash: 31e1e728256445f8fe3a4e2647b32a73
   TypeTreeHash:
     serializedVersion: 2
     Hash: 507f922f8c92f8440b8736e6151aa697
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0623fc6149da417dbaae9162a08c5e7b
+    Hash: 31e1e728256445f8fe3a4e2647b32a73
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -183,6 +183,7 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Bundles/ShakaJR/Animation/Falling.anim
 - Assets/Bundles/ShakaJR/Animation/JavelinThrow.anim
+- Assets/Bundles/ShakaJR/BigBillyWeapons/NeonImpalerTexture.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/FireballTail.png
 - Assets/Bundles/ShakaJR/Sound/Foot.wav
 - Assets/Bundles/ShakaJR/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailTexture.png
