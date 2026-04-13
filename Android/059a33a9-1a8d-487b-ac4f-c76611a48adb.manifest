@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3449465512
+CRC: 227143591
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9c590beea001f1f027c6c1b44cafed33
+    Hash: 35d1e78f1a1bdbfb0850b25db000426b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7da6e0f2e551df6fed075d5d756ffe50
+    Hash: 1cf4f3d6b4d2fa87fcfdaaded88ba655
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9c590beea001f1f027c6c1b44cafed33
+    Hash: 35d1e78f1a1bdbfb0850b25db000426b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,8 +42,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 95
   Script: {instanceID: 0}
-- Class: 108
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
@@ -74,6 +72,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 010139c0273139e45b31cf0df126d133, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2a5291fdd30dea4d8caed56de7fbb92, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ff9d3a9b626da5f448cb465ce98d7e07, type: 3}
 - Class: 114
@@ -126,9 +126,7 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: CFXRRuntime
   ClassName: CartoonFX.CFXR_Effect/CameraShake
 - AssemblyName: ShakaJunior
-  ClassName: ShakaJunior.AerialSecondarySupportConfiguration
-- AssemblyName: ShakaJunior
-  ClassName: ShakaJunior.AerialZappyMovementConfiguration
+  ClassName: ShakaJunior.GroundSecondarySupportConfiguration
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.Managers.ShadowManager.ShadowType
 - AssemblyName: ShakaJunior
@@ -146,53 +144,46 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/source/WaterCannon.asset
-- Assets/Bundles/ZEETEE/Animation/Running Slide.anim
-- Assets/Bundles/ZEETEE/ZEETEEAvatarMask.mask
-- Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeapon.prefab
-- Assets/Bundles/ZEETEE/Weapons/FrostTrapMainTexture.png
-- Assets/Bundles/ZEETEE/Model/Texture/Flaba_Tex.01.png
-- Assets/Bundles/ZEETEE/PrimaryDefense/PrimaryDefenseInstance.prefab
-- Assets/Bundles/ZEETEE/RunnerPrefab.prefab
-- Assets/Bundles/ZEETEE/Animation/FireballRelease.anim
-- Assets/Bundles/ZEETEE/MuzzleFlash.prefab
-- Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
-- Assets/Bundles/ZEETEE/RunnerSprite.png
-- Assets/Bundles/ZEETEE/PrimaryDefense/PrimaryDefense.asset
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/textures/WaterCannonTexture.png
-- Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
-- Assets/Bundles/ZEETEE/Weapons/IceblockWall.png
-- Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ufo.PNG
-- Assets/Bundles/ZEETEE/SecondaryDefense/Mesh/Cube.mesh
-- Assets/Bundles/ZEETEE/HitImpact.prefab
-- Assets/Bundles/ZEETEE/Animation/Slide.anim
-- Assets/Bundles/ZEETEE/Model/Flaba@Fast Run.fbx
-- Assets/Bundles/ZEETEE/Model/Flaba@Idle.fbx
-- Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/Atlas_00001.png
-- Assets/Bundles/ZEETEE/Animation/Run.anim
-- Assets/Bundles/ZEETEE/RunnerAnimationController.controller
-- Assets/Bundles/ZEETEE/Sound/PrimaryWeaponSound.mp3
-- Assets/Bundles/ZEETEE/Animation/Jump.anim
-- Assets/Bundles/ZEETEE/Weapons/Impact4_Blue.png
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponData.asset
-- Assets/Bundles/ZEETEE/Animation/Falling.anim
-- Assets/Bundles/ZEETEE/RunnerProfile.asset
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
-- Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ZEETEEUFOMAT.mat
-- Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefense.asset
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeapon.prefab
-- Assets/Bundles/ZEETEE/SecondaryDefense/ufo.controller
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
-- Assets/Bundles/ZEETEE/Sound/Foot.wav
-- Assets/Bundles/ZEETEE/Sound/SecondaryWeaponSound.mp3
-- Assets/Bundles/ZEETEE/Animation/Idle.anim
-- Assets/Bundles/ZEETEE/Weapons/particles-single.png
-- Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
-- Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefensePrefab.prefab
-- Assets/Bundles/ZEETEE/Weapons/FrostTrapTexture.png
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
-- Assets/Bundles/ZEETEE/SecondaryDefense/ZEETEESecondary.fbx
-- Assets/Bundles/ZEETEE/Sound/SecondaryModeSound.wav
+- Assets/Bundles/Zombi3x/Animation/Falling.anim
+- Assets/Bundles/Zombi3x/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Bundles/Zombi3x/HitImpact.prefab
+- Assets/Bundles/Zombi3x/Model/JoeZombiePrimary@Zombie Running.fbx
+- Assets/Bundles/Zombi3x/MuzzleFlash.prefab
+- Assets/Bundles/Zombi3x/Animation/Running Slide.anim
+- Assets/Bundles/Zombi3x/Zombie3xAvatarMask.mask
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
+- Assets/Bundles/Zombi3x/Model/Texture/JoeZombie_Tex.01.png
+- Assets/Bundles/Zombi3x/Animation/Idle.anim
+- Assets/Bundles/Zombi3x/Sound/SecondaryModeSound.wav
+- Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
+- Assets/Bundles/Zombi3x/RunnerSprite.png
+- Assets/Bundles/Zombi3x/Sound/SecondaryWeaponSound.mp3
+- Assets/Bundles/Zombi3x/Weapons/PlasmaOlb.png
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/Mesh/WaterCannon.asset
+- Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
+- Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
+- Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeapon.prefab
+- Assets/Bundles/Zombi3x/Animation/Slide.anim
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeapon.prefab
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponData.asset
+- Assets/Bundles/Zombi3x/Animation/Run.anim
+- Assets/Bundles/Zombi3x/RunnerPrefab.prefab
+- Assets/Bundles/Zombi3x/PrimaryDefense/PrimaryDefenseInstance.prefab
+- Assets/Bundles/Zombi3x/Weapons/Circle_Impact_Red.png
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
+- Assets/Bundles/Zombi3x/SecondaryDefense/SecondaryDefense.asset
+- Assets/Bundles/Zombi3x/RunnerProfile.asset
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
+- Assets/Bundles/Zombi3x/Sound/PrimaryWeaponSound.mp3
+- Assets/Bundles/Zombi3x/RunnerAnimationController.controller
+- Assets/Bundles/Zombi3x/Animation/Jump.anim
+- Assets/Bundles/Zombi3x/Sound/Foot.wav
+- Assets/Bundles/Zombi3x/Model/JoeZombiePrimary@Unarmed Idle.fbx
+- Assets/Bundles/Zombi3x/Animation/JavelinThrow.anim
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Bundles/Zombi3x/PrimaryDefense/PrimaryDefense.asset
+- Assets/Bundles/Zombi3x/Weapons/Circle_Impact_Yellow.png
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/7eb5b6c3-6b30-4485-bf6a-f9b821729540
