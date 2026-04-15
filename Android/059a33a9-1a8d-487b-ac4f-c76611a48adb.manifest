@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2431631738
+CRC: 2151933661
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1c6791e9c0b4673a548c46c1e265c425
+    Hash: ab6103cec6d98ee9ed2397f2fb458c39
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1cf4f3d6b4d2fa87fcfdaaded88ba655
+    Hash: 63bbe2005924154552a609621ca2cb59
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1c6791e9c0b4673a548c46c1e265c425
+    Hash: ab6103cec6d98ee9ed2397f2fb458c39
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -158,9 +158,8 @@ Assets:
 - Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/Zombi3x/RunnerSprite.png
 - Assets/Bundles/Zombi3x/Sound/SecondaryWeaponSound.mp3
-- Assets/Bundles/Zombi3x/Weapons/PlasmaOlb.png
-- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/Mesh/WaterCannon.asset
 - Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
+- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/Mesh/WaterCannon.asset
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
@@ -171,10 +170,10 @@ Assets:
 - Assets/Bundles/Zombi3x/Animation/Run.anim
 - Assets/Bundles/Zombi3x/RunnerPrefab.prefab
 - Assets/Bundles/Zombi3x/PrimaryDefense/PrimaryDefenseInstance.prefab
-- Assets/Bundles/Zombi3x/Weapons/Circle_Impact_Red.png
+- Assets/Bundles/Zombi3x/RunnerProfile.asset
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/Zombi3x/SecondaryDefense/SecondaryDefense.asset
-- Assets/Bundles/Zombi3x/RunnerProfile.asset
+- Assets/Bundles/Zombi3x/Weapons/IronrageTexture.png
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
 - Assets/Bundles/Zombi3x/Sound/PrimaryWeaponSound.mp3
 - Assets/Bundles/Zombi3x/RunnerAnimationController.controller
@@ -184,6 +183,5 @@ Assets:
 - Assets/Bundles/Zombi3x/Animation/JavelinThrow.anim
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/Zombi3x/PrimaryDefense/PrimaryDefense.asset
-- Assets/Bundles/Zombi3x/Weapons/Circle_Impact_Yellow.png
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/7eb5b6c3-6b30-4485-bf6a-f9b821729540
