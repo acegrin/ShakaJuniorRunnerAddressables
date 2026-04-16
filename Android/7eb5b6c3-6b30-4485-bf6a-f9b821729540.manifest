@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1529709749
+CRC: 3814535257
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 068a6299b69b21162addf9deb35a15e9
+    Hash: 6dc9699a2013de2ba32fd0794390ea2b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 63bbe2005924154552a609621ca2cb59
+    Hash: 554f05a89869d1d3638f2d99392d86e4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 068a6299b69b21162addf9deb35a15e9
+    Hash: 6dc9699a2013de2ba32fd0794390ea2b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -149,6 +149,7 @@ Assets:
 - Assets/Bundles/SuperStriker/Sound/Foot.wav
 - Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/SuperStriker/Animation/Idle.anim
+- Assets/Bundles/SuperStriker/Shader/PhantomStrikeShader.shader
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/Mesh/WaterCannon.asset
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/SuperStriker/Animation/Running Slide.anim
@@ -164,7 +165,7 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/SuperStriker/Animation/Run.anim
 - Assets/Bundles/SuperStriker/SecondaryDefense/SecondaryDefensePrefab.prefab
-- Assets/Bundles/SuperStriker/PeterWeapons/Circle_Impact_Red.png
+- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
 - Assets/Bundles/SuperStriker/SuperStrikerAvatarMask.mask
 - Assets/Bundles/SuperStriker/PeterModel/Texture/Char_Tex.01.png
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
@@ -172,18 +173,18 @@ Assets:
 - Assets/Bundles/SuperStriker/PeterModel/SuperStriker@Neutral Idle.fbx
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
+- Assets/Bundles/SuperStriker/Shader/ProjectilePhantomStrikeMaterial.mat
+- Assets/Bundles/SuperStriker/RunnerProfile.asset
 - Assets/Bundles/SuperStriker/PeterWeapons/PlasmaOlb.png
 - Assets/Bundles/SuperStriker/HitImpact.prefab
 - Assets/Bundles/SuperStriker/PeterModel/SuperStrikerPhantomStrike.fbx
 - Assets/Bundles/SuperStriker/MuzzleFlash.prefab
-- Assets/Bundles/SuperStriker/PeterWeapons/Circle_Impact_Yellow.png
 - Assets/Bundles/SuperStriker/Sound/SecondaryWeaponSound.mp3
-- Assets/Bundles/SuperStriker/RunnerProfile.asset
 - Assets/Bundles/SuperStriker/Animation/Jump.anim
 - Assets/Bundles/SuperStriker/RunnerAnimationController.controller
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/SuperStriker/RunnerPrefab.prefab
 - Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/SuperStriker/Animation/PhantomStrike.anim
-Dependencies: []
+Dependencies:
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/059a33a9-1a8d-487b-ac4f-c76611a48adb

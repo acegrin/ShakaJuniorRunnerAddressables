@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3340212376
+CRC: 312061062
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fa7aebcae9563b70871ff88cf1cf8a48
+    Hash: 513ee360693a8391db3a2fa858fb86f6
   TypeTreeHash:
     serializedVersion: 2
-    Hash: adf94bf7b5b3f29de812fc5855765dcc
+    Hash: 2fd241e339dac4cc61943e68e1d56d13
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fa7aebcae9563b70871ff88cf1cf8a48
+    Hash: 513ee360693a8391db3a2fa858fb86f6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,7 +150,6 @@ Assets:
 - Assets/Bundles/ZEETEE/Animation/Running Slide.anim
 - Assets/Bundles/ZEETEE/ZEETEEAvatarMask.mask
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeapon.prefab
-- Assets/Bundles/ZEETEE/Weapons/FrostTrapMainTexture.png
 - Assets/Bundles/ZEETEE/Model/Texture/Flaba_Tex.01.png
 - Assets/Bundles/ZEETEE/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/ZEETEE/RunnerPrefab.prefab
@@ -161,7 +160,6 @@ Assets:
 - Assets/Bundles/ZEETEE/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
-- Assets/Bundles/ZEETEE/Weapons/IceblockWall.png
 - Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ufo.PNG
 - Assets/Bundles/ZEETEE/SecondaryDefense/Mesh/Cube.mesh
 - Assets/Bundles/ZEETEE/HitImpact.prefab
@@ -173,13 +171,14 @@ Assets:
 - Assets/Bundles/ZEETEE/RunnerAnimationController.controller
 - Assets/Bundles/ZEETEE/Sound/PrimaryWeaponSound.mp3
 - Assets/Bundles/ZEETEE/Animation/Jump.anim
-- Assets/Bundles/ZEETEE/Weapons/Impact4_Blue.png
+- Assets/Bundles/ZEETEE/Shader/ProjectileFrostTrapMaterial.mat
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Bundles/ZEETEE/Animation/Falling.anim
 - Assets/Bundles/ZEETEE/RunnerProfile.asset
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ZEETEEUFOMAT.mat
 - Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefense.asset
+- Assets/Bundles/ZEETEE/Shader/FrostTrapShader.shader
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Bundles/ZEETEE/SecondaryDefense/ufo.controller

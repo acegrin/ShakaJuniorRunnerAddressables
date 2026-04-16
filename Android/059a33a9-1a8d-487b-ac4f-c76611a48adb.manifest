@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 957531079
+CRC: 1229760190
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 658f010648d971a72b8fedefe5a77b12
+    Hash: 43d833945ce4915de122a70a144c0eb0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 63bbe2005924154552a609621ca2cb59
+    Hash: 554f05a89869d1d3638f2d99392d86e4
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 658f010648d971a72b8fedefe5a77b12
+    Hash: 43d833945ce4915de122a70a144c0eb0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -144,17 +144,18 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
+- Assets/Bundles/Zombi3x/Shader/IronRageShader.shader
 - Assets/Bundles/Zombi3x/Animation/Falling.anim
-- Assets/Bundles/Zombi3x/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Bundles/Zombi3x/HitImpact.prefab
 - Assets/Bundles/Zombi3x/Model/JoeZombiePrimary@Zombie Running.fbx
-- Assets/Bundles/Zombi3x/MuzzleFlash.prefab
+- Assets/Bundles/Zombi3x/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Bundles/Zombi3x/Animation/Running Slide.anim
 - Assets/Bundles/Zombi3x/Zombie3xAvatarMask.mask
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
-- Assets/Bundles/Zombi3x/Model/Texture/JoeZombie_Tex.01.png
+- Assets/Bundles/Zombi3x/MuzzleFlash.prefab
 - Assets/Bundles/Zombi3x/Animation/Idle.anim
 - Assets/Bundles/Zombi3x/Sound/SecondaryModeSound.wav
+- Assets/Bundles/Zombi3x/Model/Texture/JoeZombie_Tex.01.png
 - Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/Zombi3x/RunnerSprite.png
 - Assets/Bundles/Zombi3x/Sound/SecondaryWeaponSound.mp3
@@ -181,6 +182,7 @@ Assets:
 - Assets/Bundles/Zombi3x/Sound/Foot.wav
 - Assets/Bundles/Zombi3x/Model/JoeZombiePrimary@Unarmed Idle.fbx
 - Assets/Bundles/Zombi3x/Animation/JavelinThrow.anim
+- Assets/Bundles/Zombi3x/Shader/ProjectileIronRageMaterial.mat
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/Zombi3x/PrimaryDefense/PrimaryDefense.asset
 Dependencies:

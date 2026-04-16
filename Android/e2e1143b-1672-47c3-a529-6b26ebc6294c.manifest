@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4121662945
+CRC: 1185741508
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c4ac389d4f9e10acd6d591bb0c2bc5f
+    Hash: ed146c6f1d0111f5b1ab3c6acc1fed2f
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 015d55bcebd0a7d7041f181b3af20ac8
+    Hash: f3c8ffa7f4f81973ddd55b2bf2c7b031
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0c4ac389d4f9e10acd6d591bb0c2bc5f
+    Hash: ed146c6f1d0111f5b1ab3c6acc1fed2f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -167,7 +167,6 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyModel/Fireball.fbx
 - Assets/Bundles/ShakaJR/BigBillyModel/ShakaJR@Standard Run.fbx
 - Assets/Bundles/ShakaJR/MuzzleFlash.prefab
-- Assets/Bundles/ShakaJR/BigBillyWeapons/NeonImpaler.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/Fireball.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
@@ -179,14 +178,13 @@ Assets:
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/MaterialTexture/WaterGunTexture.jpg
 - Assets/Bundles/ShakaJR/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/ShakaJR/RunnerAnimationController.controller
-- Assets/Bundles/ShakaJR/BigBillyWeapons/ShakaSpear@2x.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Bundles/ShakaJR/Animation/Falling.anim
 - Assets/Bundles/ShakaJR/Animation/JavelinThrow.anim
 - Assets/Bundles/ShakaJR/BigBillyWeapons/NeonImpalerTexture.png
-- Assets/Bundles/ShakaJR/BigBillyWeapons/FireballTail.png
 - Assets/Bundles/ShakaJR/Sound/Foot.wav
 - Assets/Bundles/ShakaJR/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailTexture.png
+- Assets/Bundles/ShakaJR/Shader/NeonImpalerShader.shader
 - Assets/Bundles/ShakaJR/RunnerProfile.asset
 - Assets/Bundles/ShakaJR/RunnerSprite.png
 - Assets/Bundles/ShakaJR/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
@@ -200,8 +198,9 @@ Assets:
 - Assets/Bundles/ShakaJR/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/ShakaJR/BigBillyWeapons/SecondaryWeapon/MaterialTexture/SpinningBlades.mat
 - Assets/Bundles/ShakaJR/Sound/SecondaryWeaponSound.wav
-- Assets/Bundles/ShakaJR/BigBillyModel/textures/ShakaJR_Tex.01.png
 - Assets/Bundles/ShakaJR/Sound/PrimaryWeaponSound.wav
+- Assets/Bundles/ShakaJR/BigBillyModel/textures/ShakaJR_Tex.01.png
+- Assets/Bundles/ShakaJR/Shader/ProjectileNeonImpalerMaterial.mat
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/1c6eecea-00b9-44fd-9862-6c71bed314af
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/7eb5b6c3-6b30-4485-bf6a-f9b821729540
