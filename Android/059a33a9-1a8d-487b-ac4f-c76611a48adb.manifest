@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 940759525
+CRC: 3479631446
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c770f2d47ab67971c917ad2569c0e4a1
+    Hash: 1bc3e865642eccc5fbd0bd4df26284f9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 22c76e7c9a203e323b470785f9cca13c
+    Hash: 38cb6ce71a6c1691dca88e0bcf331952
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c770f2d47ab67971c917ad2569c0e4a1
+    Hash: 1bc3e865642eccc5fbd0bd4df26284f9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -70,10 +70,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 6aeb76c1fbf4b114da624e2143fdb9ae, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 010139c0273139e45b31cf0df126d133, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f2a5291fdd30dea4d8caed56de7fbb92, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ff9d3a9b626da5f448cb465ce98d7e07, type: 3}
 - Class: 114
@@ -145,25 +141,23 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Bundles/Zombi3x/Shader/IronRageShader.shader
-- Assets/Bundles/Zombi3x/Animation/Falling.anim
+- Assets/Bundles/Zombi3x/GroundDefenseController.controller
 - Assets/Bundles/Zombi3x/HitImpact.prefab
 - Assets/Bundles/Zombi3x/Model/JoeZombiePrimary@Zombie Running.fbx
-- Assets/Bundles/Zombi3x/SecondaryDefense/SecondaryDefensePrefab.prefab
-- Assets/Bundles/Zombi3x/Animation/Running Slide.anim
+- Assets/Bundles/Zombi3x/Animation/Falling.anim
 - Assets/Bundles/Zombi3x/Zombie3xAvatarMask.mask
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
-- Assets/Bundles/Zombi3x/MuzzleFlash.prefab
+- Assets/Bundles/Zombi3x/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Bundles/Zombi3x/Animation/Idle.anim
 - Assets/Bundles/Zombi3x/Sound/SecondaryModeSound.wav
-- Assets/Bundles/Zombi3x/Model/Texture/JoeZombie_Tex.01.png
+- Assets/Bundles/Zombi3x/MuzzleFlash.prefab
 - Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Bundles/Zombi3x/RunnerSprite.png
 - Assets/Bundles/Zombi3x/Sound/SecondaryWeaponSound.mp3
-- Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/Mesh/WaterCannon.asset
+- Assets/Bundles/Zombi3x/Model/Texture/JoeZombie_Tex.01.png
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
-- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Bundles/Zombi3x/Weapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Bundles/Zombi3x/Animation/Slide.anim
 - Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeapon.prefab
@@ -183,7 +177,7 @@ Assets:
 - Assets/Bundles/Zombi3x/Model/JoeZombiePrimary@Unarmed Idle.fbx
 - Assets/Bundles/Zombi3x/Animation/JavelinThrow.anim
 - Assets/Bundles/Zombi3x/Shader/ProjectileIronRageMaterial.mat
-- Assets/Bundles/Zombi3x/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/Zombi3x/PrimaryDefense/PrimaryDefense.asset
+- Assets/Bundles/Zombi3x/Animation/Running Slide.anim
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/7eb5b6c3-6b30-4485-bf6a-f9b821729540

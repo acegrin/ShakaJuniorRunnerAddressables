@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3937171267
+CRC: 3206887382
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 28dea3549a455cd338dfe78f22377a84
+    Hash: 466d88679b1337e570278d9b9ea4fba9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 22c76e7c9a203e323b470785f9cca13c
+    Hash: 82f0156208664fd702384736bf4db9ec
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 28dea3549a455cd338dfe78f22377a84
+    Hash: 466d88679b1337e570278d9b9ea4fba9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -70,8 +70,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 6aeb76c1fbf4b114da624e2143fdb9ae, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 010139c0273139e45b31cf0df126d133, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f2a5291fdd30dea4d8caed56de7fbb92, type: 3}
 - Class: 114
@@ -144,46 +142,46 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Bundles/SuperStriker/SecondaryDefense/SecondaryDefense.asset
 - Assets/Bundles/SuperStriker/Sound/Foot.wav
-- Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
+- Assets/Bundles/SuperStriker/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Bundles/SuperStriker/Animation/Idle.anim
 - Assets/Bundles/SuperStriker/Shader/PhantomStrikeShader.shader
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/Mesh/WaterCannon.asset
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/Mesh/WaterCannon.asset
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/SuperStriker/Animation/Running Slide.anim
 - Assets/Bundles/SuperStriker/Animation/Slide.anim
-- Assets/Bundles/SuperStriker/PeterModel/SuperStriker@Standard Run.fbx
+- Assets/Bundles/SuperStriker/Model/SuperStriker@Standard Run.fbx
 - Assets/Bundles/SuperStriker/Sound/SecondaryModeSound.wav
-- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
-- Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
-- Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
-- Assets/Bundles/SuperStriker/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
+- Assets/Bundles/SuperStriker/GroundDefenseController.controller
+- Assets/Bundles/SuperStriker/Weapons/PrimaryWeapon/PrimaryWeaponSprite.png
+- Assets/Bundles/SuperStriker/Weapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Bundles/SuperStriker/RunnerSprite.png
+- Assets/Bundles/SuperStriker/RunnerProfile.asset
 - Assets/Bundles/SuperStriker/Animation/Falling.anim
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/SuperStriker/Animation/Run.anim
 - Assets/Bundles/SuperStriker/SecondaryDefense/SecondaryDefensePrefab.prefab
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
 - Assets/Bundles/SuperStriker/SuperStrikerAvatarMask.mask
-- Assets/Bundles/SuperStriker/PeterModel/Texture/Char_Tex.01.png
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
-- Assets/Bundles/SuperStriker/PeterModel/SuperStriker@Neutral Idle.fbx
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
+- Assets/Bundles/SuperStriker/Model/Texture/Char_Tex.01.png
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeapon.prefab
+- Assets/Bundles/SuperStriker/Model/SuperStriker@Neutral Idle.fbx
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Bundles/SuperStriker/Shader/ProjectilePhantomStrikeMaterial.mat
-- Assets/Bundles/SuperStriker/RunnerProfile.asset
-- Assets/Bundles/SuperStriker/PeterWeapons/PlasmaOlb.png
+- Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
+- Assets/Bundles/SuperStriker/Weapons/PlasmaOlb.png
 - Assets/Bundles/SuperStriker/HitImpact.prefab
-- Assets/Bundles/SuperStriker/PeterModel/SuperStrikerPhantomStrike.fbx
+- Assets/Bundles/SuperStriker/Model/SuperStrikerPhantomStrike.fbx
 - Assets/Bundles/SuperStriker/MuzzleFlash.prefab
 - Assets/Bundles/SuperStriker/Sound/SecondaryWeaponSound.mp3
 - Assets/Bundles/SuperStriker/Animation/Jump.anim
 - Assets/Bundles/SuperStriker/RunnerAnimationController.controller
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/SuperStriker/RunnerPrefab.prefab
-- Assets/Bundles/SuperStriker/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/SuperStriker/Animation/PhantomStrike.anim
 Dependencies: []

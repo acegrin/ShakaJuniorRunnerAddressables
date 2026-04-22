@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2051688607
+CRC: 1961830198
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dc794751fe408140e94a9b028ba7f2e4
+    Hash: ae8913f15c1c5d1d99783881504f8fe5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 85410b22892539b46f5037da7c1cc52e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: dc794751fe408140e94a9b028ba7f2e4
+    Hash: ae8913f15c1c5d1d99783881504f8fe5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -160,8 +160,6 @@ Assets:
 - Assets/Bundles/ZEETEE/PrimaryDefense/PrimaryDefense.asset
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
-- Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ufo.PNG
-- Assets/Bundles/ZEETEE/SecondaryDefense/Mesh/Cube.mesh
 - Assets/Bundles/ZEETEE/HitImpact.prefab
 - Assets/Bundles/ZEETEE/Animation/Slide.anim
 - Assets/Bundles/ZEETEE/Model/Flaba@Fast Run.fbx
@@ -176,7 +174,6 @@ Assets:
 - Assets/Bundles/ZEETEE/Animation/Falling.anim
 - Assets/Bundles/ZEETEE/RunnerProfile.asset
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
-- Assets/Bundles/ZEETEE/SecondaryDefense/MaterialTexture/ZEETEEUFOMAT.mat
 - Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefense.asset
 - Assets/Bundles/ZEETEE/Shader/FrostTrapShader.shader
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
@@ -188,6 +185,7 @@ Assets:
 - Assets/Bundles/ZEETEE/Animation/Idle.anim
 - Assets/Bundles/ZEETEE/Weapons/particles-single.png
 - Assets/Bundles/ZEETEE/Weapons/PrimaryWeapon/PrimaryWeaponData.asset
+- Assets/Bundles/ZEETEE/GroundDefenseController.controller
 - Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Bundles/ZEETEE/Weapons/FrostTrapTexture.png
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
