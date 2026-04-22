@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1961830198
+CRC: 3314293662
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae8913f15c1c5d1d99783881504f8fe5
+    Hash: be82be6f4500a89d3a27e708a356b063
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 85410b22892539b46f5037da7c1cc52e
+    Hash: aec272b6ca5e221a0e3c4f6735199188
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ae8913f15c1c5d1d99783881504f8fe5
+    Hash: be82be6f4500a89d3a27e708a356b063
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -176,6 +176,7 @@ Assets:
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefense.asset
 - Assets/Bundles/ZEETEE/Shader/FrostTrapShader.shader
+- Assets/Bundles/ZEETEE/CollectiblesOverride.png
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Bundles/ZEETEE/SecondaryDefense/ufo.controller
