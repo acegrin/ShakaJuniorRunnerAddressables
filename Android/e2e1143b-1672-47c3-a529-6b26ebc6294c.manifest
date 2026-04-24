@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1369959545
+CRC: 4204264428
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 81c7d16c3f2f794871a32172cd6e4ec9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f0abb43a52e827be2f961ef02554cc79
+    Hash: a55d647d116f6483428004d7b627b651
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 81c7d16c3f2f794871a32172cd6e4ec9
@@ -127,6 +127,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: ShakaJunior.AerialFlatMovementConfiguration
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.AerialSecondarySupportConfiguration
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.CollectibleAnimationEffectConfig
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.Managers.ShadowManager.ShadowType
 - AssemblyName: ShakaJunior

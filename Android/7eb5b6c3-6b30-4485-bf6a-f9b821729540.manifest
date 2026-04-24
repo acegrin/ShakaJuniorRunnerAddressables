@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1888663084
+CRC: 395293071
 Hashes:
   AssetFileHash:
     serializedVersion: 2
     Hash: 466d88679b1337e570278d9b9ea4fba9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ec06cbf892d9361588047814f77da7ff
+    Hash: 376e81a0be6f6e812b91da467f034876
   IncrementalBuildHash:
     serializedVersion: 2
     Hash: 466d88679b1337e570278d9b9ea4fba9
@@ -123,6 +123,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: CartoonFX.CFXR_Effect/AnimatedLight
 - AssemblyName: CFXRRuntime
   ClassName: CartoonFX.CFXR_Effect/CameraShake
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.CollectibleAnimationEffectConfig
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.GroundSecondarySupportConfiguration
 - AssemblyName: ShakaJunior
