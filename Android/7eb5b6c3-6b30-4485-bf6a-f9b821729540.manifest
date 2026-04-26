@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 12411519
+CRC: 1247450708
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae51265bfda9ebb877792250c88626b6
+    Hash: 261294f26f49555885d0fcf9e9c86ff4
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 22f6fa12695af1adbd3dfe866981ab4b
+    Hash: ca28a2b3ac7737da1bb9546c6d5e6cbf
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ae51265bfda9ebb877792250c88626b6
+    Hash: 261294f26f49555885d0fcf9e9c86ff4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -70,8 +70,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 6aeb76c1fbf4b114da624e2143fdb9ae, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f2a5291fdd30dea4d8caed56de7fbb92, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ff9d3a9b626da5f448cb465ce98d7e07, type: 3}
 - Class: 114
@@ -175,6 +173,7 @@ Assets:
 - Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Bundles/SuperStriker/Shader/ProjectilePhantomStrikeMaterial.mat
 - Assets/Bundles/SuperStriker/Sound/PrimaryWeaponSound.mp3
+- Assets/Bundles/SuperStriker/Weapons/PhantomStrikeTexture.png
 - Assets/Bundles/SuperStriker/Weapons/PlasmaOlb.png
 - Assets/Bundles/SuperStriker/HitImpact.prefab
 - Assets/Bundles/SuperStriker/Model/SuperStrikerPhantomStrike.fbx
@@ -184,6 +183,5 @@ Assets:
 - Assets/Bundles/SuperStriker/RunnerAnimationController.controller
 - Assets/Bundles/SuperStriker/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Bundles/SuperStriker/RunnerPrefab.prefab
-- Assets/Bundles/SuperStriker/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/SuperStriker/Animation/PhantomStrike.anim
 Dependencies: []

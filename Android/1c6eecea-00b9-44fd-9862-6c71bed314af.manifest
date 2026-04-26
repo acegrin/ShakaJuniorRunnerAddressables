@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2893731739
+CRC: 2486767675
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a0f3cce9aa392ee12af7c615ecc5ea29
+    Hash: e8f6301bd20140bb04054b7170cef30c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3ce4fcd025ca5e3c828cc04264adad5a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a0f3cce9aa392ee12af7c615ecc5ea29
+    Hash: e8f6301bd20140bb04054b7170cef30c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -175,7 +175,6 @@ Assets:
 - Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Bundles/ZEETEE/Animation/Falling.anim
 - Assets/Bundles/ZEETEE/RunnerProfile.asset
-- Assets/Bundles/ZEETEE/Weapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Bundles/ZEETEE/SecondaryDefense/SecondaryDefense.asset
 - Assets/Bundles/ZEETEE/Shader/FrostTrapShader.shader
 - Assets/Bundles/ZEETEE/CollectiblesOverride.png
